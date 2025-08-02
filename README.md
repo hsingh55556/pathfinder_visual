@@ -1,3 +1,9 @@
+# Pathfinder Visualizer 
+
+this project visualizes shortest path from start node to end node using different algorithms
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
